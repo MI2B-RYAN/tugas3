@@ -25,7 +25,7 @@ class MyAppState extends State<MyApp> {
     });
   }
 
-  @overrides
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
